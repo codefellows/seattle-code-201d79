@@ -1,6 +1,6 @@
 # Adding A Chart to the Vote Tracker App
 
-### Learning Objectives
+## Learning Objectives
 
 As a result of completing Lecture 12 of Code 201, students will:
 

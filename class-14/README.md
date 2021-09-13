@@ -1,4 +1,3 @@
-
 # CSS Animations; Intermediate JS Topics; Using Local Storage to Share Data Between Two Pages
 
 ## Lecture

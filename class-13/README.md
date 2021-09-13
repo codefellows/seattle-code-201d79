@@ -1,6 +1,6 @@
-## Lecture
+# Persistence with Local Storage API
 
-### Learning Objectives
+## Learning Objectives
 
 As a result of completing Lecture 13 of Code 201, students will:
 
