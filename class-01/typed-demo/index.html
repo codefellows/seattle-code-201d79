@@ -1,0 +1,68 @@
+<!-- version -->
+<!DOCTYPE html>
+
+<!-- The very beginning of any content in the Browser -->
+<html>
+
+  <!-- meta data -->
+   <head>
+    <!--  -->
+    <title>My first title</title>
+
+    <!-- 1st way of styling -->
+    <style>
+      /* we can write CSS */
+
+      header {
+        background-color: red;
+      }
+    </style>
+  </head>
+
+  <!-- all of the visible content -->
+  <body>
+
+    <!-- semantic HTML -->
+    <header style="color: blue; background-color: yellow;">
+      <!-- level 1 heading, signifies the most important idea -->
+      <h1>The biggest text</h1>
+      <!-- paragraph -->
+      <p>Put some text here</p>
+    </header>
+
+    <main>
+         <!-- Unordered list -->
+      <ul>
+
+        <!-- list items -->
+        <li>This gets a bullet</li>
+      </ul>
+
+      <!-- ordered list -->
+      <ol>
+        <li>This gets a  number</li>
+      </ol>
+    </main>
+
+    <footer>
+      <p>I should be at the bottom</p>
+    </footer>
+
+    <!-- Define website behavior here -->
+    <script>
+      // define a variable and assign a value
+      let name = 'Jacob'; // value is the 'string' Jacob
+  
+      // built in browser behaviors
+      console.log(name) // outputs something (values) to your developer tools.
+  
+      // + when used with a string, "concatenates"
+      alert('hello ' + name); // outputs something to a "pop up"
+  
+      // change the value of name, to be whatever the user types.
+      name = prompt('What is you name?');
+  
+      alert('Youre name is ' + name);
+    </script>
+  </body>
+</html>

@@ -18,7 +18,9 @@
 ## Canvas
 
 * Syllabus
-* Remo virtial campus
+  * contains all the links, resources information about the course overall.
+* Remo virtual campus
+  * Our virtual collaboration space.
 
 ## Prework
 
@@ -56,6 +58,38 @@
     * "staging a change for commit"
   * commit - saving your work.
     * codifing  / finalizing change for a specific version.
-  * push
+  * push - put all of my local changes onto a remote website.
+    * requires a remote alias (this will be `origin` until we discuss forking).
+    * also requires a branch (this will be `main` until we discuss branching).
+    * `git push origin main`
 
 ## Basic HTML, CSS, JS
+
+Building web applications.
+  * Apps on the app store (android  / apple phones)
+  * Usability (of a web site)
+    * is something easy to use.
+    * whatever goal a app has.
+  * A web site.
+  * Consistency, does it work the same always.
+
+3 languages, that all play an important role in creating web applications
+ * HTML - content
+ * CSS - look and feel
+ * JS - behavior
+
+* Basic semantic HTML Elements:
+  * `p`
+  * `h1`
+  * `ul`
+  * `li`
+* Basic CSS usage
+  * inline styles
+  * `<style>` elements
+* Basic JS operations
+  * defining variables
+  * using variables as values
+  * built in Browser Behaviors:
+    * prompt
+    * console.log
+    * alert
