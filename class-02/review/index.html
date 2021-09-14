@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <!-- meta data, information about what is displayed -->
+  <head>
+    <meta charset="UTF-8">
+    <title>Lab 01</title>
+    <style>
+      main {
+        background-color: chartreuse;
+      }
+      p {
+        background-color: black;
+      }
+    </style>
+  </head>
+
+  <!-- all the things that display on the page -->
+  <body>
+    <!-- What content is displayed -->
+    <header>
+
+    </header>
+
+    <main>
+      <h1>Class 1 Lab</h1>
+      <p style="background-color: salmon;">What is your least favorite ice cream?</p>
+      <p style="background-color: blanchedalmond;">What is you favorite drink?</p>
+      <p style="background-color: magenta;">Where would like to vacation next?</p>
+      <p style="background-color: aqua;">What's you favorite weather condition?</p>
+    </main>
+
+    <footer>
+
+    </footer>
+    
+    <!-- Where do I ask ask my questions? -->
+    <script>
+      let favIceCream = prompt("What is your least favorite ice cream?");
+      console.log("The users favorite ice cream: " + favIceCream); // outputs to dev tools
+      alert('Your favorite Ice cream is : ' + favIceCream); // output to a pop-up, that the user will see.
+
+      prompt("What is you favorite drink?");
+      let Location = prompt("Where would like to vacation next?")
+      prompt("What's you favorite weather condition?");
+    </script>
+  </body>
+</html>
