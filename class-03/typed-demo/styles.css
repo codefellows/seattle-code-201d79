@@ -1,0 +1,10 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+p {
+  border: thin solid black;
+  padding: 10px 20px;
+  margin: 10px 20px;
+}
