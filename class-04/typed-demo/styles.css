@@ -1,0 +1,30 @@
+body {
+  height: 1000px;
+}
+
+p {
+  border: thin solid black;
+  /* position: relative; */
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  display: inline-block;
+  height: 100px;
+}
+
+span {
+  display: inline-block;
+  /* position: relative; */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  /* left: -400px; */
+  height: 100px;
+  width: 100vw;
+  background-color: red;
+}
+
+div {
+  position: relative;
+  top: 20px;
+}
