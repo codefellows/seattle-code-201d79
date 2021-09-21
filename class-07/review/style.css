@@ -1,0 +1,16 @@
+/* Add some space between line items */
+
+li {
+  padding: 10px 20px;
+}
+lh {
+  width: 200px;
+  text-align: center;
+  display: inline-block;
+}
+
+ul {
+  border: thin solid black;
+  display: inline-block;
+  max-width: 200px;
+}
