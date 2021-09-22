@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+
+header { 
+  height: 300px;
+  width: 100vw;
+  padding: 0 100px;
+  box-sizing: border-box;
+  background-color: turquoise;
+}
+
+header h1, header nav {
+  display: inline-block;
+  width: 49%;
+}
+
+main {
+  height: calc(100vh - 300px);
+  padding: 20px 100px;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 250px;
+  height: 300px;
+  /* overflow: scroll; */
+}
+
+.card-body {
+  height: 66%;
+  overflow: scroll;
+}
+
+.card-header h3 {
+  display: inline-block;
+  position: relative;
+  bottom: 10px;
+  /* padding-bottom: 15px; */
+  /* box-sizing: border-box; */
+}
