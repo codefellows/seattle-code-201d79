@@ -1,0 +1,84 @@
+#logo {
+    height: 70px;
+    width: 200px;   
+    display: inline;
+    padding-top: 20px;
+}
+
+header {
+    background-color: grey;
+    height: 90px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.navButton {
+    display: inline;    
+    height: 30px;
+    margin-left: 25%;
+    width: 100px;    
+}
+
+button {
+    margin: 40px;
+}
+
+main {
+    width: 960px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heroImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-bottom: 30px;
+}
+
+.cardsAll {
+    display: table;
+    content: auto;
+    padding-top: 30px;
+}
+
+.cards {
+    float: left;
+    width:30%;
+    padding:10px;
+}
+
+.featSect { 
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px 0px;
+    height: 400;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#featureSection {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 400;
+    width: 50%;
+}
+
+#textArea {
+    border: thin black solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 400px;
+    width: 50%;
+    overflow: scroll;
+}
+
+footer {
+    background-color: darkgray;
+    height: 30px;
+}
