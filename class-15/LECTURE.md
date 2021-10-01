@@ -20,7 +20,7 @@ Team 1
 * Christopher Harden
 * Jared Barnes
 * Jordan fleming
-* Minhand Xie
+* Minhang Xie
 
 Team 2
 
