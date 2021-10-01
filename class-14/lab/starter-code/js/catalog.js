@@ -32,6 +32,7 @@ function handleSubmit(event) {
   cart.saveToLocalStorage();
   updateCounter();
   updateCartPreview();
+  alert('Thank you for clicking.') // remove this when we have time to make an actual animation.
 
 }
 
