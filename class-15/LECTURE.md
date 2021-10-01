@@ -18,44 +18,44 @@
 Team 1
 
 * Christopher Harden
-* Jared
+* Jared Barnes
 * Jordan fleming
-* Min
+* Minhand Xie
 
 Team 2
 
 * Brandon Wolf
 * Johnathan Burnam
-* Chloe
-* Ibraheem
+* Chloe Nott
+* Ibraheem Ibraheem
 
 Team 3
 
 * Ben Mills
-* Justin
-* Kevin
-* Kirk
+* Justin Asuncion-Esmena
+* Kevin Stone
+* Kirk Garrison
 
 Team 4
 
 * John Chavez
 * Joseph Nguyen
-* Miguel
+* Miguel Fierro
 * Scott Lease
 
 Team 5
 
-* Edris
-* Brannon
-* Jordan Folkl
+* Edris Berg
+* Brannon Starnes
+* Jordan Folk
 * Joseph Streifel
 
 Team 6
 
-* Andrew K
-* Joey H
-* K'lan
-* Sam P
+* Andrew Kim
+* Joey Hernandez
+* K'lan Stovall
+* Sam Panek
 
 ### Project Requirements
 
