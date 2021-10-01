@@ -25,7 +25,7 @@ Team 1
 Team 2
 
 * Brandon Wolf
-* Jon Barnum
+* Jon Burnum
 * Chloe Nott
 * Ibraheem Ibraheem
 
