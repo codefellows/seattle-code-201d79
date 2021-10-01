@@ -25,7 +25,7 @@ Team 1
 Team 2
 
 * Brandon Wolf
-* Jon Burnum
+* Jon Barnum
 * Chloe Nott
 * Ibraheem Ibraheem
 
@@ -69,7 +69,7 @@ Team 6
    1. HTML, CSS, JS
       1. Any code you submit to me in the main branch, should be as clean as you think it should be.
          1. Make sure there are no big commented out blocks of code.
-   2. Expectation is to use the design patterns and reseouces demostrated in lecture.
+   2. Expectation is to use the design patterns and resources demonstrated in lecture.
    3. Does your code do the behaviors that you as a team specify.
       1. If your app preforms the behaviors you set out to build, you will get a good grade.
 
@@ -89,23 +89,28 @@ Today: Project preperation
     * Database (mongoDB / SQL).
     * Serve side logic.
     * Cloud services (AWS, Web Site hosting services).
-Monday: Focus on planning and exectution.
 
-* What constructor do we need.
+Monday: Focus on planning and execution.
+
+* What models / constructor functions do we need?
 * What behaviors are does our application to be a minimal viable product.
   * 2 - 5 features / behaviors.
-  * try to thinkg of these from the users perspective.
+  * try to think of these from the users perspective.
 * Not a huge focus on code writing.
   * Wireframes for your UI.
+
 Tuesday / Wednesday: Focus on implementation and iteration:
 
-* What things are we implementing
+* What code are we implementing
 * What is left to do / what needs to be done better.
 * Producing and commiting code that satisfies your MVP.
 * Hopefully we reach MVP functionality by EOD Wednesday.
 
-Thursday: polish our Apps and Practice our Presentation
+Thursday: Polish our Apps and Practice our Presentation.
+
 Friday: Ideally no work is done, focus on presenting.
+
+* We present at 3:00PM on Friday (10 / 08)
 
 ### Project Prep Assignments
 
